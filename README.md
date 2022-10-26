@@ -6,12 +6,16 @@ A biblioteca está separada por Linguagens e por Projetos.
 Os Projetos contem suas próprias documentações e linguagens utilizadas.
 As pastas de Linguagens, contém subprojetos/atividades relacionadas as etapas de aprendizado de cada linguagem e portanto cada atividade possui um nível de conhecimento diferenciado, sendo as primeiras atividades em um nível inicial e as últimas atividades em um nivel refinado.
 OBS: Podem haver pastas vazias, pois estas são propostas de desenvolvimento e ainda não foram realizadas, e serão disponibilizadas em breve.
+
 Projetos:
+
 - Calendário
 - Calculadora
 - Aplicativo de Clima
 - Editor de texto
+
 Linguagens:
+
 - Java
 - Python
 - Kotlin
