@@ -20,7 +20,7 @@
 <h3>Linguagens:</h3>
 <br>
 <dl>
-  <dt>Java</dt>
+  <dt><h3>Java</h3></dt>
   <dd>Array</dd>
   <dt>Python</dt>
   <dt>Kotlin</dt>
