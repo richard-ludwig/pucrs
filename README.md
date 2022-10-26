@@ -7,25 +7,29 @@
 <h4>As pastas de Linguagens, contém subprojetos/atividades relacionadas as etapas de aprendizado de cada linguagem e portanto cada atividade possui um nível de conhecimento diferenciado, sendo as primeiras atividades em um nível inicial e as últimas atividades em um nivel refinado.</h4>
 <h5>OBS: Podem haver pastas vazias, pois estas são propostas de desenvolvimento e ainda não foram realizadas, e serão disponibilizadas em breve.</h5>
 <br>
-Projetos:
+<title>Projetos:</title>
 <br>
-- Calendário
-- Calculadora
-- Aplicativo de Clima
-- Editor de texto
+<ul>
+  <li>Calendário</li>
+  <li>Calculadora</li>
+  <li>Aplicativo de Clima</li>
+  <li>Editor de texto</li>
+<ul>
 <br>
 <br>
-Linguagens:
+<title>Linguagens:</title>
 <br>
-- Java
-- Python
-- Kotlin
-- Swift
-- Javascript
-- PHP
-- HTML5
-- CSS e SCSS
-- SQL
-- NOSQL
-- C++
-- C#
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>Kotlin</li>
+  <li>Swift</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+  <li>HTML5</li>
+  <li>CSS e SCSS</li>
+  <li>SQL</li>
+  <li>NOSQL</li>
+  <li>C++</li>
+  <li>C#</li>
+</ul>
